@@ -1,31 +1,41 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![smartmockups_lkctxjs3](https://github.com/virgilhawkins00/Food-Delivery/assets/105638600/3f45bd2b-3a31-455a-959e-9ce9fd710ff7)
+<br>
+Food Delivery App
 
-First, run the development server:
+This project is a food delivery app built with Next.js, React, and Tailwind CSS. It allows users to browse a list of restaurants, view their menus, and place orders.
+Getting Started
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+To get started, you will need to have Node.js and Yarn installed. Once you have those installed, you can install the dependencies by running the following command:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+yarn install
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Once the dependencies are installed, you can start the development server by running the following command:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+yarn run dev
 
-## Learn More
+The development server will open a browser window at http://localhost:3000.
+Features
 
-To learn more about Next.js, take a look at the following resources:
+    Browse a list of restaurants
+    View restaurant menus
+    Place orders
+    Track order status
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions are welcome! Please open a pull request if you have any changes or improvements.
+License
+
+This project is licensed under the MIT License.
+Linguagens de programação e frameworks usados
+
+    JavaScript
+    React
+    Next.js
+    Tailwind CSS
+
 
 ## Deploy on Vercel
 
